@@ -1,3 +1,5 @@
+#Local Storage nasıl kullanılır?
+
 Local Storage'a veri eklemek için localStorage nesnesinin setItem() metodu kullanılır. Çerezlerde olduğu gibi yine key-value tanımlaması geçerlidir.
 
 Kullanımı ve Örnek-> localStorage.setItem(key, value);
